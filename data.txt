@@ -1,3 +1,4 @@
 Name: Sonia
 Age: 24
+Date of Birth: 12/06/1994
 Favorite Color: blue
